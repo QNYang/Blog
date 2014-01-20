@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/joefiorini/s3deployer
+  remote: https://github.com/franzzzz/blog
   revision: 5a4e9c2ba408f36de900ec014e9d8c40d1adf78a
   specs:
-    s3deployer (0.0.4)
+    blog (0.0.4)
       aws-s3
 
 GEM
@@ -36,4 +36,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   kramdown
-  s3deployer (= 0.0.4)!
+  blog (= 0.0.4)!

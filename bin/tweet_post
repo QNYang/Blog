@@ -47,7 +47,7 @@ end
 url_to_post = site.config['url'] + post.url
 
 bitly_key = bitly_config.api_key
-bitly_url = "http://api.bitly.com/v3/shorten?login=joefiorini&apiKey=#{bitly_key}&longUrl=#{escape(url_to_post)}&format=txt"
+bitly_url = "http://api.bitly.com/v3/shorten?login=wangniantao&apiKey=#{bitly_key}&longUrl=#{escape(url_to_post)}&format=txt"
 shortened_url = `curl "#{bitly_url}" 2> /dev/null`
 
 tweet << " #{shortened_url}"
