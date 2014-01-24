@@ -38,9 +38,6 @@ I use Ctrl-C to exit insert mode. One thing I discovered is that Ctrl-C cancels 
 
 - [Notes on HTML5 Video and iPhone (Jonathan Stark)] [2]
 
-{% inserted 2011-05-10 01:59 PM %}
-UPDATE: There is great discussion going on about pasting in Vim on Hacker News. [Join the conversation][hn] if you have questions or thoughts.
-{% endinserted %}
 
 {% highlight ruby %}
     require 'shopify_api'
