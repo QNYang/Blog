@@ -52,7 +52,7 @@ module Jekyll
     priority :low
 
     # Domain that you are generating the sitemap for - update this to match your site.
-    BASE_URL = 'http://github.com/franzzzz/blog'
+    BASE_URL = 'http://franzzzz.github.io/Blog/'
 
     # Generates the sitemap.xml file.
     #

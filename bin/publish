@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER_DIRECTORY="blog:/var/github.com/franzzzz/blog/"
+SERVER_DIRECTORY="blog:http://franzzzz.github.io/Blog/"
 
 # Die if there's any errors
 set -e
