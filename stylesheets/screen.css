@@ -93,7 +93,7 @@ abbr[title*="Note well"] {
 }
 
 body {
-  background-image: url('/images/background.png');
+  background-image: url('/home/fran/Blog/images/background.png');
   color:            #666;
 }
 
@@ -210,11 +210,11 @@ aside a, section.meta nav a {
 }
 
 section.meta:hover li.twitter {
-  background-image: url('/images/twitter.png');
+  background-image: url('/home/fran/Blog/images/twitter.png');
 }
 
 section.meta:hover li.rss {
-  background-image: url('/images/rss.png');
+  background-image: url('/home/fran/Blog/images/rss.png');
 }
 
 section.meta:hover a {
@@ -321,7 +321,7 @@ article footer:hover p a {
 }
 
 article footer:hover p a[rel~=external] {
-  background-image: url('/images/source.png');
+  background-image: url('/home/fran/Blog/images/source.png');
 }
 
 article footer p a[rel~=alternate] {
@@ -329,7 +329,7 @@ article footer p a[rel~=alternate] {
 }
 
 article footer:hover p a[rel~=alternate] {
-  background-image: url('/images/read-later.png');
+  background-image: url('/home/fran/Blog/images/read-later.png');
 }
 
 article footer:hover p time {
