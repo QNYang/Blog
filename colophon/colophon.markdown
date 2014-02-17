@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Colophon
+layout: default
 ---
 
 ## Blog: Behind the Scenes

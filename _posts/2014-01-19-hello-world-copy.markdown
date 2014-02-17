@@ -1,7 +1,7 @@
 ---
-Date: January 19, 2014
-title: 
-source: http://www.baudu.c/
+Date: 2014-01-19 13:00 AM
+title: Hello World Everybody! This Is a Test.
+source: http://www.baidu.com/
 layout: post
 category: tips 
 orcategory: [reviews]

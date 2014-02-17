@@ -1,7 +1,8 @@
 ---
-  title: Contact
-  layout: default
+title: Contact
+layout: default
 ---
+
 If you have any thoughts while reading this site I'd love to hear them. You can contact me on [Twitter][] and [Facebook][], or via [email][].Thanks for reading!
 
 under this line written by Joe, I'd like to reserve it as a comparision.
