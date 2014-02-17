@@ -1,4 +1,4 @@
-url: "/Blog"
+url: "http://franzzzz.github.io/Blog/"
 pygments: true
 exclude: [bin, Gemfile, Gemfile.lock, Makefile]
 markdown: kramdown
